@@ -1,0 +1,5 @@
+ultralytics
+customtkinter
+pillow
+opencv-python
+pandas

@@ -1,0 +1,101 @@
+﻿dosya,beklenen_sinif,tespit_edilenler,durum
+dur_004.jpg,dur,dur:0.96,DOGRU
+dur_010.jpg,dur,dur:0.98,DOGRU
+dur_016.jpg,dur,dur:0.99,DOGRU
+dur_022.jpg,dur,dur:0.99,DOGRU
+dur_028.jpg,dur,dur:0.99,DOGRU
+dur_034.jpg,dur,dur:0.99,DOGRU
+dur_040.jpg,dur,dur:0.99; park_yasak:0.75,DOGRU (fazladan tespit de var)
+dur_046.jpg,dur,dur:0.99; yaya_gecidi:0.92; park_yasak:0.89,DOGRU (fazladan tespit de var)
+dur_052.jpg,dur,dur:0.98,DOGRU
+dur_058.jpg,dur,dur:0.98,DOGRU
+dur_064.jpg,dur,dur:0.85,DOGRU
+dur_070.jpg,dur,dur:0.44,DOGRU
+hiz_siniri_007.jpg,hiz_siniri,hiz_siniri:0.97; hiz_siniri:0.94,DOGRU
+hiz_siniri_010.jpg,hiz_siniri,hiz_siniri:0.99; yaya_gecidi:0.58,DOGRU (fazladan tespit de var)
+hiz_siniri_014.jpg,hiz_siniri,hiz_siniri:0.97; yaya_gecidi:0.96,DOGRU (fazladan tespit de var)
+hiz_siniri_018.jpg,hiz_siniri,hiz_siniri:0.98; yaya_gecidi:0.73,DOGRU (fazladan tespit de var)
+hiz_siniri_022.jpg,hiz_siniri,hiz_siniri:0.97; yaya_gecidi:0.96,DOGRU (fazladan tespit de var)
+hiz_siniri_025.jpg,hiz_siniri,hiz_siniri:0.99,DOGRU
+hiz_siniri_029.jpg,hiz_siniri,hiz_siniri:0.98,DOGRU
+hiz_siniri_033.jpg,hiz_siniri,hiz_siniri:0.93; dur:0.88; hiz_siniri:0.50,DOGRU (fazladan tespit de var)
+hiz_siniri_036.jpg,hiz_siniri,yaya_gecidi:0.99; hiz_siniri:0.95; yaya_gecidi:0.87,DOGRU (fazladan tespit de var)
+hiz_siniri_040.jpg,hiz_siniri,yaya_gecidi:0.96; hiz_siniri:0.95,DOGRU (fazladan tespit de var)
+hiz_siniri_044.jpg,hiz_siniri,hiz_siniri:0.99,DOGRU
+hiz_siniri_048.jpg,hiz_siniri,hiz_siniri:0.98,DOGRU
+hiz_siniri_051.jpg,hiz_siniri,hiz_siniri:0.99; yaya_gecidi:0.91,DOGRU (fazladan tespit de var)
+hiz_siniri_055.jpg,hiz_siniri,hiz_siniri:0.99; yaya_gecidi:0.97,DOGRU (fazladan tespit de var)
+hiz_siniri_059.jpg,hiz_siniri,hiz_siniri:1.00,DOGRU
+hiz_siniri_062.jpg,hiz_siniri,hiz_siniri:0.98; yaya_gecidi:0.97,DOGRU (fazladan tespit de var)
+hiz_siniri_066.jpg,hiz_siniri,hiz_siniri:0.98,DOGRU
+hiz_siniri_070.jpg,hiz_siniri,hiz_siniri:1.00,DOGRU
+hiz_siniri_074.jpg,hiz_siniri,yaya_gecidi:0.96; yaya_gecidi:0.95,YANLIS SINIF
+hiz_siniri_077.jpg,hiz_siniri,hiz_siniri:1.00; yaya_gecidi:0.97,DOGRU (fazladan tespit de var)
+hiz_siniri_081.jpg,hiz_siniri,hiz_siniri:0.55,DOGRU
+images_ek2_yaya_gecidi.png,yaya_gecidi,yaya_gecidi:0.98,DOGRU
+images_ek_Ekran gФrБntБsБ 2026-07-23 153411.png,?,yaya_gecidi:0.93; hiz_siniri:0.86,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-23 153812.png,?,yaya_gecidi:0.98,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 093137.png,?,yaya_gecidi:0.97; yaya_gecidi:0.92; park_yasak:0.36,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 094037.png,?,(tespit yok),MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 094607.png,?,hiz_siniri:0.83,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 105312.png,?,park_yasak:0.62,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 112252.png,?,yaya_gecidi:0.92,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 141038.png,?,dur:0.97,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 142400.png,?,(tespit yok),MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 143233.png,?,park_yasak:0.98,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 144249.png,?,yaya_gecidi:0.96; park_yasak:0.57,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 152152.png,?,yaya_gecidi:0.98,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 153734.png,?,park_yasak:0.98; park_yasak:0.93,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 154859.png,?,yaya_gecidi:0.96; yaya_gecidi:0.71,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-24 160101.png,?,dur:0.72,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-26 145448.png,?,yaya_gecidi:0.98,MANUEL KONTROL
+images_ek_Ekran gФrБntБsБ 2026-07-26 175753.png,?,yaya_gecidi:0.99; hiz_siniri:0.40,MANUEL KONTROL
+images_ek_dur_001.jpg,dur,(tespit yok),KACIRILDI (levha bulunamadi)
+images_ek_dur_007.jpg,dur,dur:0.99; hiz_siniri:0.65,DOGRU (fazladan tespit de var)
+images_ek_dur_010.jpg,dur,yol_ver:0.91,YANLIS SINIF
+images_ek_dur_011.jpg,dur,(tespit yok),KACIRILDI (levha bulunamadi)
+images_ek_dur_013.jpg,dur,dur:0.98; hiz_siniri:0.32,DOGRU (fazladan tespit de var)
+images_ek_hiz_siniri_004.jpg,hiz_siniri,hiz_siniri:0.66,DOGRU
+images_ek_hiz_siniri_009.jpg,hiz_siniri,(tespit yok),KACIRILDI (levha bulunamadi)
+images_ek_hiz_siniri_010.jpg,hiz_siniri,yaya_gecidi:0.90; hiz_siniri:0.38,DOGRU (fazladan tespit de var)
+park_yasak_004.jpg,park_yasak,park_yasak:0.98; park_yasak:0.81,DOGRU
+park_yasak_010.jpg,park_yasak,park_yasak:0.98,DOGRU
+park_yasak_016.jpg,park_yasak,park_yasak:0.97,DOGRU
+park_yasak_022.jpg,park_yasak,park_yasak:0.97,DOGRU
+park_yasak_028.jpg,park_yasak,park_yasak:0.99,DOGRU
+park_yasak_034.jpg,park_yasak,park_yasak:0.99,DOGRU
+park_yasak_040.jpg,park_yasak,park_yasak:0.98,DOGRU
+park_yasak_046.jpg,park_yasak,park_yasak:0.96,DOGRU
+park_yasak_052.jpg,park_yasak,park_yasak:0.99,DOGRU
+park_yasak_058.jpg,park_yasak,park_yasak:0.79; dur:0.43; park_yasak:0.29,DOGRU (fazladan tespit de var)
+park_yasak_064.jpg,park_yasak,park_yasak:0.90,DOGRU
+park_yasak_070.jpg,park_yasak,park_yasak:0.89,DOGRU
+yaya_gecidi_004.jpg,yaya_gecidi,yaya_gecidi:0.98,DOGRU
+yaya_gecidi_010.jpg,yaya_gecidi,yaya_gecidi:0.97,DOGRU
+yaya_gecidi_016.jpg,yaya_gecidi,yaya_gecidi:0.93,DOGRU
+yaya_gecidi_022.jpg,yaya_gecidi,yaya_gecidi:0.96; park_yasak:0.93; park_yasak:0.75,DOGRU (fazladan tespit de var)
+yaya_gecidi_028.jpg,yaya_gecidi,yaya_gecidi:0.99; yaya_gecidi:0.98,DOGRU
+yaya_gecidi_034.jpg,yaya_gecidi,yaya_gecidi:0.98,DOGRU
+yaya_gecidi_040.jpg,yaya_gecidi,yaya_gecidi:1.00,DOGRU
+yaya_gecidi_046.jpg,yaya_gecidi,yaya_gecidi:0.98; yaya_gecidi:0.31,DOGRU
+yaya_gecidi_052.jpg,yaya_gecidi,yaya_gecidi:0.99,DOGRU
+yaya_gecidi_058.jpg,yaya_gecidi,park_yasak:0.58; yaya_gecidi:0.37,DOGRU (fazladan tespit de var)
+yaya_gecidi_064.jpg,yaya_gecidi,(tespit yok),KACIRILDI (levha bulunamadi)
+yaya_gecidi_070.jpg,yaya_gecidi,hiz_siniri:0.42,YANLIS SINIF
+yol_ver_003.jpg,yol_ver,yaya_gecidi:0.96; yol_ver:0.96; yaya_gecidi:0.36,DOGRU (fazladan tespit de var)
+yol_ver_008.jpg,yol_ver,hiz_siniri:0.99; yol_ver:0.95; park_yasak:0.84,DOGRU (fazladan tespit de var)
+yol_ver_012.jpg,yol_ver,yol_ver:1.00,DOGRU
+yol_ver_017.jpg,yol_ver,yol_ver:0.98,DOGRU
+yol_ver_021.jpg,yol_ver,yol_ver:0.99,DOGRU
+yol_ver_026.jpg,yol_ver,yol_ver:0.99,DOGRU
+yol_ver_030.jpg,yol_ver,yol_ver:0.99,DOGRU
+yol_ver_035.jpg,yol_ver,yol_ver:0.98,DOGRU
+yol_ver_040.jpg,yol_ver,yol_ver:0.99; yaya_gecidi:0.98; yaya_gecidi:0.64,DOGRU (fazladan tespit de var)
+yol_ver_044.jpg,yol_ver,yol_ver:0.98; yaya_gecidi:0.96,DOGRU (fazladan tespit de var)
+yol_ver_049.jpg,yol_ver,yol_ver:0.99,DOGRU
+yol_ver_053.jpg,yol_ver,yol_ver:0.99,DOGRU
+yol_ver_058.jpg,yol_ver,yol_ver:0.89,DOGRU
+yol_ver_062.jpg,yol_ver,yol_ver:0.99; hiz_siniri:0.43,DOGRU (fazladan tespit de var)
+yol_ver_067.jpg,yol_ver,yol_ver:0.99,DOGRU
+yol_ver_071.jpg,yol_ver,yol_ver:0.49,DOGRU
+yol_ver_076.jpg,yol_ver,yol_ver:0.98; yol_ver:0.32,DOGRU
