@@ -1,6 +1,7 @@
 # Dev dataset files
 EGITIM_SETI.zip
 *.zip
+images/
 
 # Presentation files
 *.pptx
